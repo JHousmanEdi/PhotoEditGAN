@@ -8,7 +8,7 @@ Created for a project in Professor Parisa Kordjamshidi's Advanced Machine Learni
 Example:
 <img src = "results/1413-Linked.png" width="900px"/>
 
-Accompanying Presentation used in class can be found [here] (results/Project Presentation.pdf)
+Accompanying Presentation used in class can be found [here](https://github.com/JHousmanEdi/PhotoEditGAN/blob/master/results/Project%20Presentation.pdf)
 
 ## Setup
 
